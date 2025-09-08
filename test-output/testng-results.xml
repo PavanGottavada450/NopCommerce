@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-09-08T16:29:07 IST" name="Default suite" finished-at="2025-09-08T16:29:24 IST" duration-ms="17094">
+    <groups>
+    </groups>
+    <test started-at="2025-09-08T16:29:07 IST" name="Default test" finished-at="2025-09-08T16:29:24 IST" duration-ms="17094">
+      <class name="testcases.SearchFilterTest">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testcases.SearchFilterTest@79079097]" started-at="2025-09-08T16:29:07 IST" name="setup" finished-at="2025-09-08T16:29:11 IST" duration-ms="3611" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testSearchMacBook()[pri:1, instance:testcases.SearchFilterTest@79079097]" started-at="2025-09-08T16:29:11 IST" name="testSearchMacBook" finished-at="2025-09-08T16:29:11 IST" duration-ms="732" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearchMacBook -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.SearchFilterTest@79079097]" started-at="2025-09-08T16:29:11 IST" name="tearDown" finished-at="2025-09-08T16:29:12 IST" duration-ms="214" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testcases.SearchFilterTest@79079097]" started-at="2025-09-08T16:29:12 IST" name="setup" finished-at="2025-09-08T16:29:13 IST" duration-ms="1666" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testSearchHTC()[pri:2, instance:testcases.SearchFilterTest@79079097]" started-at="2025-09-08T16:29:13 IST" name="testSearchHTC" finished-at="2025-09-08T16:29:14 IST" duration-ms="1224" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearchHTC -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.SearchFilterTest@79079097]" started-at="2025-09-08T16:29:14 IST" name="tearDown" finished-at="2025-09-08T16:29:15 IST" duration-ms="213" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testcases.SearchFilterTest@79079097]" started-at="2025-09-08T16:29:15 IST" name="setup" finished-at="2025-09-08T16:29:17 IST" duration-ms="2717" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testSearchGiftCard()[pri:3, instance:testcases.SearchFilterTest@79079097]" started-at="2025-09-08T16:29:17 IST" name="testSearchGiftCard" finished-at="2025-09-08T16:29:18 IST" duration-ms="958" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearchGiftCard -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.SearchFilterTest@79079097]" started-at="2025-09-08T16:29:18 IST" name="tearDown" finished-at="2025-09-08T16:29:19 IST" duration-ms="230" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testcases.SearchFilterTest@79079097]" started-at="2025-09-08T16:29:19 IST" name="setup" finished-at="2025-09-08T16:29:20 IST" duration-ms="1385" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testSortByPriceLowToHigh()[pri:4, instance:testcases.SearchFilterTest@79079097]" started-at="2025-09-08T16:29:20 IST" name="testSortByPriceLowToHigh" finished-at="2025-09-08T16:29:21 IST" duration-ms="877" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSortByPriceLowToHigh -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.SearchFilterTest@79079097]" started-at="2025-09-08T16:29:21 IST" name="tearDown" finished-at="2025-09-08T16:29:21 IST" duration-ms="198" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testcases.SearchFilterTest@79079097]" started-at="2025-09-08T16:29:21 IST" name="setup" finished-at="2025-09-08T16:29:23 IST" duration-ms="1743" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testSortByPriceHighToLow()[pri:5, instance:testcases.SearchFilterTest@79079097]" started-at="2025-09-08T16:29:23 IST" name="testSortByPriceHighToLow" finished-at="2025-09-08T16:29:24 IST" duration-ms="1106" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSortByPriceHighToLow -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.SearchFilterTest@79079097]" started-at="2025-09-08T16:29:24 IST" name="tearDown" finished-at="2025-09-08T16:29:24 IST" duration-ms="179" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.SearchFilterTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
