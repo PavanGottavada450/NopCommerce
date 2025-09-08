@@ -17,7 +17,7 @@ public class RegisterPage {
 	By password = By.id("Password");
 	By confirmPassword = By.id("ConfirmPassword");
 	By registerBtn = By.id("register-button");
-	By successMsg = By.className("result");
+	By successMsg = By.cssSelector("div.result");
 
 	// Validation messages
 	By firstNameError = By.id("FirstName-error");

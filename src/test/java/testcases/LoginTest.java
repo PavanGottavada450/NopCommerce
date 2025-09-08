@@ -25,7 +25,7 @@ public class LoginTest {
 	@Test
 	public void testValidLogin() {
 		home.clickLogin();
-		login.login("pavan@gmail.com", "pavan@123"); // use a registered account
+		login.login("pavang@gmail.com", "pavan123"); // use a registered account
 		Assert.assertTrue(driver.findElement(home.logoutLink).isDisplayed());
 	}
 

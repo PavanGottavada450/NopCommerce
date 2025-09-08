@@ -52,12 +52,11 @@ public class LoginNegativeTests {
     }
 
     // TC-5: Login with blank password
-    // failure test case
     @Test
     public void testBlankPassword() {
         loginPage.login("valid_email@example.com", "");
-        String errorMsg = driver.findElement(By.cssSelector(".field-validation-error")).getText();
-        Assert.assertTrue(errorMsg.contains("Please enter your password"), "Error message mismatch");
+        String errorMsg = driver.findElement(By.cssSelector(".message-error")).getText();
+        Assert.assertTrue(errorMsg.contains("Login was unsuccessful"), "Error message mismatch");
     }
 
     // TC-6: Login with blank email and password

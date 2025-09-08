@@ -20,7 +20,7 @@ public class LogoutTest {
 		home = new HomePage(driver);
 		login = new LoginPage(driver);
 		home.clickLogin();
-		login.login("pavan@gmail.com", "pavan@123"); // registered account
+		login.login("pavang@gmail.com", "pavan123"); // registered account
 	}
 
 	@Test
